@@ -1,4 +1,5 @@
 // Iteration #1: Find the maximum
+console.log('My first commit')
 
 // Iteration #2: Find longest word
 const words = ['mystery', 'brother', 'aviator', 'crocodile', 'pearl', 'orchard', 'crackpot'];
